@@ -4,52 +4,67 @@
     <meta charset="utf-8">
     <title>Notes</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
   </head>
   <body>
-    <nav>
-    
-        <a href="/" >
-            Home
-        </a>
-    
-        <a href="/about.html" >
-            About
-        </a>
-    
-        <a href="/blog.html" >
-            Blog
-        </a>
-    
-        <a href="/staff.html" >
-            Staff
-        </a>
-    
-        <a href="/notes.html" class="current">
-            Notes
-        </a>
-    
-  </nav>
+    <header class="navbar">
+    <section class="navbar-section">
+        <a href="/"><img class="logo" src="/assets/images/DJR_COLOUR_FULL.png" alt=""></a>
+        
+            <a href="/about.html" 
+            
+                class="btn btn-link" 
+            
+            >
+                About
+            </a>
+        
+            <a href="/projects.html" 
+            
+                class="btn btn-link" 
+            
+            >
+                Projects
+            </a>
+        
+            <a href="/events.html" 
+            
+                class="btn btn-link" 
+            
+            >
+                Events
+            </a>
+        
+    </section>
+</header>
+
   <!-- <img src="/assets/images/DJR_COLOUR_LOGO.png" alt=""> -->
-    <h1>Notes</h1>
+    <div class="container grid-lg">
+      <div class="columns">
+        <div class="column col-lg-12 col-md-12 col-sm-12">
+          <h1>Notes</h1>
 
-<ul>
+<div>
     
-        <li>
-            <h2><a href="/my-new-digital-garden">my new digital garden</a></h2>
-            <p><h1 id="a-title-for-the-first-note">A title for the first note</h1>
-<p>Welcome here is a <a class="internal-link" href="/test-note">test note</a></p>
-
-</p>
-        </li>
+        <p>
+            <a href="/notes/my-new-digital-garden">My new digital garden</a>
+        </p>
     
-        <li>
-            <h2><a href="/test-note">test note</a></h2>
-            <p><h1 id="a-title">A title</h1>
-<p>Some other text</p>
-
-</p>
-        </li>
+        <p>
+            <a href="/notes/test-note">Test note</a>
+        </p>
     
-</ul>
+        <p>
+            <a href="/notes/a-nested-note">A nested note</a>
+        </p>
+    
+</div>
+        </div>
+      
+      </div>
+    </div>
+    
   </body>
 </html>

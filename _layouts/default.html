@@ -4,10 +4,21 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
   </head>
   <body>
     {% include navigation.html %}
   <!-- <img src="/assets/images/DJR_COLOUR_LOGO.png" alt=""> -->
-    {{ content }}
+    <div class="container grid-lg">
+      <div class="columns">
+        <div class="column col-lg-12 col-md-12 col-sm-12">
+          {{ content }}
+        </div>
+      
+      </div>
+    </div>
+    
   </body>
 </html>

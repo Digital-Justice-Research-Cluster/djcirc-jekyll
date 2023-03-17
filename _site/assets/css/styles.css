@@ -2,4 +2,51 @@
   color: green;
 }
 
+.logo {
+  max-width: 250px;
+}
+
+h1, h2, h3, h4, h5, a {
+  font-family: "obvia", sans-serif !important;
+}
+
+p {
+  font-size: 1.25em;
+  line-height: 1.5em;
+  letter-spacing: 2px;
+}
+
+.hero {
+  position: relative;
+}
+
+.hero:before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 150%;
+  height: 300%;
+  opacity: 0.1;
+  background-image: url("../images/DJR_BLACK_LOGO.png");
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+  z-index: -999;
+}
+
+.hero-body {
+  position: relative;
+}
+
+ul li p {
+  display: inline;
+}
+
+@font-face {
+  font-family: obvia;
+  src: url(../fonts/Fontspring-DEMO-obvia_regular.otf);
+}
+
 /*# sourceMappingURL=styles.css.map */

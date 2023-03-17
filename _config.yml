@@ -1,10 +1,16 @@
+exclude:             ['_includes/notes_graph.json']
+permalinks: pretty
+
 collections: 
   authors:
     output: true
   notes:
     output: true
-    permalink: /:slug
-
+    permalink: /:collection/:slug
+  projects:
+    output: true
+  events:
+    output: true
 
 defaults:
   - scope:
@@ -14,9 +20,23 @@ defaults:
       layout: "author"
   - scope:
       path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
+  - scope:
+      path: ""
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "note"
   - scope:
       path: ""
     values:

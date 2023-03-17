@@ -1,0 +1,15 @@
+---
+title: DJ CIRC Events
+---
+
+<h1>Events</h1>
+
+<div>
+    {% for event in site.events %}
+        <p>
+            <a href="{{ event.url }}">{{ event.name }}</a> - {{ event.event_date | date_to_string }}<br>
+            {{ event.time }}            
+        </p>
+        
+    {% endfor %}
+</div>
