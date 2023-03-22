@@ -7,3 +7,5 @@
 
 # Obsidian config
 .obsidian/
+
+.DS_Store
