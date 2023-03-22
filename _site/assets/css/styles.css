@@ -1,12 +1,29 @@
+html {
+  overflow-x: hidden;
+}
+
 .current {
   color: green;
 }
 
-.logo {
-  max-width: 250px;
+strong {
+  color: #B720B3;
 }
 
-h1, h2, h3, h4, h5, a {
+img {
+  width: 100%;
+}
+
+.logo {
+  max-width: 250px;
+  padding: 2em;
+}
+
+.york-logo {
+  max-width: 150px;
+}
+
+h1, a {
   font-family: "obvia", sans-serif !important;
 }
 
@@ -14,6 +31,13 @@ p {
   font-size: 1.25em;
   line-height: 1.5em;
   letter-spacing: 2px;
+}
+
+.body {
+  min-height: 100vh;
+}
+.body h1 {
+  color: #510C7F;
 }
 
 .hero {

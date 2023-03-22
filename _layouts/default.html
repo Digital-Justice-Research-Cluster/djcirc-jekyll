@@ -2,6 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
     <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
@@ -10,8 +12,8 @@
   </head>
   <body>
     {% include navigation.html %}
-  <!-- <img src="/assets/images/DJR_COLOUR_LOGO.png" alt=""> -->
-    <div class="container grid-lg">
+  
+    <div class="body container grid-lg">
       <div class="columns">
         <div class="column col-lg-12 col-md-12 col-sm-12">
           {{ content }}
@@ -20,5 +22,6 @@
       </div>
     </div>
     
+    {% include footer.html %}
   </body>
 </html>

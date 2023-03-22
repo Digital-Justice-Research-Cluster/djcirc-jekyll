@@ -1,5 +1,5 @@
 ---
-short_name: project2
+short_name: winter
 name: Soundscapes of the Filipinx Diaspora
 pi: Casey Mecija
 ---

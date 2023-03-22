@@ -1,7 +1,7 @@
 ---
 short_name: mel
 name: Mel Racho
-position: Mel 2
+position: Research Assistant
 ---
 
 An alias of Mel named Mel.

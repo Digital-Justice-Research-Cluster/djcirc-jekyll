@@ -1,5 +1,5 @@
 - name: About
-  link: /about.html
+  link: /about
 # - name: Blog
 #   link: /blog.html
 # - name: Staff
@@ -7,6 +7,6 @@
 # - name: Notes
 #   link: /notes.html
 - name: Projects
-  link: /projects.html
+  link: /projects
 - name: Events
-  link: /events.html
+  link: /events

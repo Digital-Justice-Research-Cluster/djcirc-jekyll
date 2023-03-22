@@ -1,16 +1,19 @@
-exclude:             ['_includes/notes_graph.json']
-permalinks: pretty
+exclude: ['_includes/notes_graph.json','_projects/Templates', '_events/Templates', 'staff.html', 'blog.html', '_posts']
+permalink: pretty
+use_html_extension:  true
 
 collections: 
   authors:
     output: true
   notes:
     output: true
-    permalink: /:collection/:slug
+    permalink: /:collection/:slug:output_ext
   projects:
     output: true
+    permalink: /:collection/:slug:output_ext
   events:
     output: true
+    permalink: /:collection/:slug:output_ext
 
 defaults:
   - scope:

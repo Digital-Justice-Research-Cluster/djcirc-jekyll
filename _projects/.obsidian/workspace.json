@@ -8,18 +8,65 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc910d66a21f0f44",
+            "id": "1e71013a599c9a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Student Gig Workers at York University.md",
+                "file": "Bearing Witness.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd61bbb78f7fceb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Date justice journalism and health equity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd1432e2f9a746eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Viral Interventions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fefb6f6bfd1889eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hemispheric Performance and Digital Access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3624b2ebc68c3117",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Student Gig Workers at York University.md",
+                "file": "Hemispheric Performance and Digital Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Student Gig Workers at York University.md",
+                "file": "Hemispheric Performance and Digital Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Student Gig Workers at York University.md"
+                "file": "Hemispheric Performance and Digital Access.md"
               }
             }
           }
@@ -146,11 +193,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc910d66a21f0f44",
+  "active": "3624b2ebc68c3117",
   "lastOpenFiles": [
-    "Assessing and Visualizing the Impact of Inclusivity Organizing in Digital Games.md",
+    "Viral Interventions.md",
+    "Hemispheric Performance and Digital Access.md",
+    "Date justice journalism and health equity.md",
+    "CineMobilia.md",
+    "Bearing Witness.md",
     "Student Gig Workers at York University.md",
     "Soundscapes of the Filipinx Diaspora.md",
-    "Photography and Biopolitics.md"
+    "Photography and Biopolitics.md",
+    "Community Engagement and Connections.md",
+    "Assessing and Visualizing the Impact of Inclusivity Organizing in Digital Games.md",
+    "Templates/Test.md",
+    "Templates/Student Gig Workers at York University.md",
+    "Templates"
   ]
 }

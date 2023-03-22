@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "0ca0b018c76a74c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dda313305983ae0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf7836bddf3925f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b5eb427e1fed8b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "434881c5d5125425",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978d63b465e5e800",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c32d781f6ce49902",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d28641f7bf3a5db",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "343b268ba00f60cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bc4cf63079183f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1b05a4d17875aea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "about.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18f50a3950065b8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "about.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b26458d5cd8294b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c03b38b7583e737",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "about.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf7836bddf3925f6",
+  "lastOpenFiles": [
+    "_site/events/spring-2023-digital-justice-circ-research-support-fund.html",
+    "_site/events/digital-justice-circ-retreat-1.html",
+    "_site/events/community-engaged-research.html",
+    "_site/events/annual-digital-justice-spring-2023-retreat.html",
+    "_site/projects/viral-interventions.html",
+    "_site/projects/student-gig-workers-at-york-university.html",
+    "_site/projects/soundscapes-of-the-filipinx-diaspora.html",
+    "_site/projects/photography-and-biopolitics.html",
+    "_site/projects/hemispheric-performance-and-digital-access.html",
+    "_site/projects/date-justice-journalism-and-health-equity.html",
+    "_site/projects/community-engagement-and-connections.html",
+    "_events/Templates/Event template.md",
+    "_events/Event template.md",
+    "_events/Untitled.md",
+    "_events/Spring 2023 Digital Justice CIRC Research Support Fund.md",
+    "_site/events/:slug.md",
+    "_events/Annual Digital Justice Spring 2023 Retreat.md",
+    "_projects/Hemispheric Performance and Digital Access.md",
+    "_site/projects/:slug.md",
+    "_projects/Untitled.md",
+    "_projects/Viral Interventions.md",
+    "_projects/Date justice journalism and health equity.md",
+    "_projects/CineMobilia.md",
+    "_site/assets/images/storytellers.png",
+    "assets/images/storytellers.png",
+    "_projects/Bearing Witness.md",
+    "_projects/Community Engagement and Connections.md",
+    "_projects/Data justice journalism and health equity.md",
+    "_projects/Student Gig Workers at York University.md",
+    "_projects/Templates/Student Gig Workers at York University.md",
+    "_projects/Untitled 1.md",
+    "_projects/Templates/Test.md",
+    "_projects/Test.md",
+    "_projects/Date justice journalism and health equity a case study of The Local.md"
+  ]
+}

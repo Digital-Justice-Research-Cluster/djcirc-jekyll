@@ -1,5 +1,5 @@
 ---
-short_name: project1
+short_name: winter
 name: Photography and Biopolitics
 pi: Gabrielle Moser
 ---

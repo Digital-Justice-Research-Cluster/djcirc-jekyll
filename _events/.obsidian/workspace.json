@@ -13,13 +13,60 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Annual Digital Justice Spring 2023 Retreat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "497fdc0cfe5e3f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Justice CIRC Retreat 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9416d9c0c5c6edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2023 Digital Justice CIRC Research Support Fund.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ce906c40bc34215",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "e8012b087aaa8759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Digital Justice CIRC Retreat 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1789d60b205f24c6",
@@ -85,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Justice CIRC Retreat 1.md",
+                "file": "Spring 2023 Digital Justice CIRC Research Support Fund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Justice CIRC Retreat 1.md",
+                "file": "Spring 2023 Digital Justice CIRC Research Support Fund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Justice CIRC Retreat 1.md"
+                "file": "Spring 2023 Digital Justice CIRC Research Support Fund.md"
               }
             }
           }
@@ -146,6 +193,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c3cdd7aa06a4073",
-  "lastOpenFiles": []
+  "active": "0ce906c40bc34215",
+  "lastOpenFiles": [
+    "Community Engaged Research.md",
+    "Annual Digital Justice Spring 2023 Retreat.md",
+    "Digital Justice CIRC Retreat 1.md",
+    "Spring 2023 Digital Justice CIRC Research Support Fund.md",
+    "Templates/Event template.md",
+    "Templates",
+    "Community Engaged Research A Panorama of Multiplicities.md"
+  ]
 }

@@ -1,18 +1,33 @@
-// body {
-//     background: linear-gradient(181deg,#ffffff,#e4e3f2) !important;
-// }
+html {
+    overflow-x: hidden;
+}
 
 .current {
     color: green;
 }
 
-.logo {
-    max-width: 250px;
+strong {
+    color: #B720B3;
 }
 
-h1, h2, h3, h4, h5, a {
+img {
+    width: 100%;
+}
+
+.logo {
+    max-width: 250px;
+    padding: 2em;
+}
+
+.york-logo {
+    max-width: 150px;
+}
+
+
+h1, a {
     font-family: 'obvia', sans-serif !important;
 }
+
 
 p {
     font-size: 1.25em;
@@ -20,10 +35,15 @@ p {
     letter-spacing: 2px;
 }
 
-// background: url(./assets/images/DJR_BLACK_LOGO.png);
-// background-repeat: no-repeat;
-// background-position: top;
+.body {
+    min-height: 100vh;
+    
+    h1 {
+        color: #510C7F;
+    }
+}
 
+// spectre.css
 .hero {
     position: relative;
 }

@@ -1,5 +1,5 @@
 ---
-short_name: project3
+short_name: winter
 name: Assessing and Visualizing the Impact of Inclusivity Organizing in Digital Games
 pi: Alison Harvey
 ---

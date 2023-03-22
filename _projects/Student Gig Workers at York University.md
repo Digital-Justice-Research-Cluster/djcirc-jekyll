@@ -1,5 +1,5 @@
 ---
-short_name: project4
+short_name: winter
 name: Student Gig Workers at York University
 pi: Kelly Bergstrom (collaborating with Sava Saheli Singh, Faculty of Education)
 ---
