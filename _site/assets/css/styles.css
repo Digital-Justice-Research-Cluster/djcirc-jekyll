@@ -40,6 +40,10 @@ p {
   color: #510C7F;
 }
 
+.team-img {
+  max-width: 250px;
+}
+
 .hero {
   position: relative;
 }
