@@ -1,9 +1,9 @@
-exclude: ['_includes/notes_graph.json','_projects/Templates', '_events/Templates', 'staff.html', 'blog.html', '_posts']
+exclude: ['_includes/notes_graph.json','_projects/Templates', '_events/Templates', 'blog.html', '_posts']
 permalink: pretty
 use_html_extension:  true
 
 collections: 
-  authors:
+  team_members:
     output: true
   notes:
     output: true
@@ -18,9 +18,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "authors"
+      type: "team_members"
     values:
-      layout: "author"
+      layout: "team_member"
   - scope:
       path: ""
       type: "projects"

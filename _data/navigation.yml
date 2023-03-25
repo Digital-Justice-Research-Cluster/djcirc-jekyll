@@ -2,8 +2,8 @@
   link: /about
 # - name: Blog
 #   link: /blog.html
-# - name: Staff
-#   link: /staff.html
+- name: Team
+  link: /team
 # - name: Notes
 #   link: /notes.html
 - name: Projects

@@ -1,0 +1,7 @@
+---
+short_name: claudia
+name: Claudia Sicondolfo
+position: Research Associate
+---
+
+Claudia Sicondolfo lives and works as a guest in Tkaronto. She is PhD Candidate in Cinema and Media Studies department at York University who held the Vanier CGS from 2017-2021. She holds a part-time Assistant Professorship in the Arts Management Program in the Department of Arts, Media, and Culture at UTSC. She is also as well as a co-researcher in the Archive/Counter-Archive SSHRC Partnership Project and in the Fair Play Connections grant. Her research projects address topics ranging from film festivals, screen publics, youth and digital media cultures, decolonizing research methodologies and affect in the creative industries. Her doctoral research project examines curatorial modes in pedagogy, community outreach, and audience engagement within contemporary digital screen initiatives and film festivals in Canada. Her writing has been published in ESSACHES, Public Journal, and Senses of Cinema, in addition to various book anthologies. Claudia has worked intimately with educational communities across Canada and has published educational companion curriculum for documentaries. Prior to beginning her PhD, Claudia worked with the National Film Board of Canada for almost a decade.

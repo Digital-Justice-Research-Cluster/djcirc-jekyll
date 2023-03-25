@@ -2,17 +2,18 @@
 layout: default
 ---
 
+<h6><a href="/team">Back</a></h6>
 <h1>{{ page.name }}</h1>
-<h2>{{ page.position }}</h2>
+<h4>{{ page.position }}</h4>
 
 {{ content }}
 
-<h2>Author Posts</h2>
+<!-- <h2>Author Posts</h2>
 <ul>
-    {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+    {% assign filtered_posts = site.posts | where: 'team_member', page.short_name %}
     {% for post in filtered_posts %}
         <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
-</ul>
+</ul> -->

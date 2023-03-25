@@ -1,6 +1,6 @@
 ---
 short_name: patricio
-name: Patricio Davila
+name: 'Patricio Dávila'
 position: Associate Professor
 ---
 
