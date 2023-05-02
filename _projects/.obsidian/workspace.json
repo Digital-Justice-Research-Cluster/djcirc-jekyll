@@ -59,14 +59,64 @@
             "id": "3624b2ebc68c3117",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Viral Interventions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcd6392096583718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listening to Social Transformation through Engagement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f11b507e99a8b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marginal MediaWorks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3add9d757560fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constellation Archeology - Developing a Feminist Visualization Game for Inclusivity Organizing’s Impacts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b523fdfba7b7e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pluriversal Worlding with Extended Reality.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -132,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hemispheric Performance and Digital Access.md",
+                "file": "Pluriversal Worlding with Extended Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hemispheric Performance and Digital Access.md",
+                "file": "Pluriversal Worlding with Extended Reality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hemispheric Performance and Digital Access.md"
+                "file": "Pluriversal Worlding with Extended Reality.md"
               }
             }
           }
@@ -193,19 +243,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3624b2ebc68c3117",
+  "active": "4b523fdfba7b7e03",
   "lastOpenFiles": [
+    "Marginal MediaWorks.md",
+    "Pluriversal Worlding with Extended Reality.md",
     "Viral Interventions.md",
+    "Constellation Archeology - Developing a Feminist Visualization Game for Inclusivity Organizing’s Impacts.md",
+    "Listening to Social Transformation through Engagement.md",
+    "Student Gig Workers at York University.md",
+    "Templates/Test.md",
     "Hemispheric Performance and Digital Access.md",
     "Date justice journalism and health equity.md",
     "CineMobilia.md",
     "Bearing Witness.md",
-    "Student Gig Workers at York University.md",
     "Soundscapes of the Filipinx Diaspora.md",
     "Photography and Biopolitics.md",
     "Community Engagement and Connections.md",
     "Assessing and Visualizing the Impact of Inclusivity Organizing in Digital Games.md",
-    "Templates/Test.md",
     "Templates/Student Gig Workers at York University.md",
     "Templates"
   ]

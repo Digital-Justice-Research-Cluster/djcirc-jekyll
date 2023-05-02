@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc9e81990525ddf7",
+        "id": "02ef31c6859ca5d6",
         "type": "tabs",
         "children": [
           {
-            "id": "2ac48dd7278a99d2",
+            "id": "161aec8299100cc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test note.md",
+                "file": "Hacking - The taming of chance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test note.md",
+                "file": "Hacking - The taming of chance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test note.md",
+                "file": "Hacking - The taming of chance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test note.md"
+                "file": "Hacking - The taming of chance.md"
               }
             }
           }
@@ -146,13 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ac48dd7278a99d2",
+  "active": "161aec8299100cc1",
   "lastOpenFiles": [
-    "Another note.md",
-    "Test note.md",
-    "My new digital garden.md",
-    "nested/nested note.md",
-    "nested/A nested note.md",
+    "Comps Reading Notes/major specific/Azoulay, 2019.md",
+    "Comps Reading Notes/major specific/Boone & Mignolo, 1994.md",
+    "Comps Reading Notes/major general/Butler, 2005.md",
+    "Comps Reading Notes/major general/de Sousa Santos, 2018.md",
+    "Comps Reading Notes/major general/Towns, 2022.md",
+    "Comps Reading Notes/major general/McLuhan, 2013.md",
+    "Comps Reading Notes/major general/Anderson, 2009.md",
+    "Comps Reading Notes/major general/Shepherd et al, 2006.md",
+    "Comps Reading Notes/major general/Carey, 2008.md",
+    "Comps Reading Notes/major general/Waisbord, 2019.md",
+    "Comps Reading Notes/major general/Peters, 2000.md",
+    "Comps Reading Notes/major general/Deleuze, 1997.md",
+    "Comps Reading Notes/major specific/Andrew, 2008.md",
+    "Comps Reading Notes/major general/Craig, 1999.md",
+    "Comps Reading Notes/major general/Botin et al, 2020.md",
+    "Comps Reading Notes/major general/Escobar, 2018.md",
+    "Comps Reading Notes/major general/Kittler, 1996.md",
+    "Comps Reading Notes/major general/Heidegger, 1977.md",
+    "Comps Reading Notes/major general/Merten, 2016.md",
+    "Comps Reading Notes/major general/Stengers, 2011.md",
+    "Comps Reading Notes/major general/de la Cadena, 2015.md",
+    "Comps Reading Notes/major general/Simondon, 2016.md",
+    "Comps Reading Notes/major general/Hui, 2017.md",
+    "Comps Reading Notes/major specific/Brown, 1989.md",
+    "Comps Reading Notes/major specific/Baronian et al, 2007.md",
+    "Comps Reading Notes/major general/Smith, 2018.md",
+    "Comps Reading Notes/major specific",
+    "Comps Reading Notes/major general",
+    "Comps Reading Notes/plans & rationales",
+    "Comps Reading Notes",
+    "major specific",
+    "major general",
     "nested"
   ]
 }

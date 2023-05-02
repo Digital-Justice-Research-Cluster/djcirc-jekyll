@@ -4,6 +4,16 @@ title: Projects
 
 <h1>Projects</h1>
 
+<h2>Spring 2023</h2>
+<div>
+    {% assign projects = site.projects | where: 'short_name', 'spring' %}
+    {% for project in projects %}
+        <p>
+            <a href="{{ project.url }}">{{ project.name }}</a>
+        </p>
+    {% endfor %}
+</div>
+
 <h2>Winter 2023</h2>
 <div>
     {% assign projects = site.projects | where: 'short_name', 'winter' %}

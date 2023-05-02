@@ -44,12 +44,14 @@
             }
           },
           {
-            "id": "0ce906c40bc34215",
+            "id": "a2e3c68263b80906",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Digital Reset - A Compendium of Creative and Speculative Approaches.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 2023 Digital Justice CIRC Research Support Fund.md",
+                "file": "Digital Reset - A Compendium of Creative and Speculative Approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 2023 Digital Justice CIRC Research Support Fund.md",
+                "file": "Digital Reset - A Compendium of Creative and Speculative Approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 2023 Digital Justice CIRC Research Support Fund.md"
+                "file": "Digital Reset - A Compendium of Creative and Speculative Approaches.md"
               }
             }
           }
@@ -193,12 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ce906c40bc34215",
+  "active": "a2e3c68263b80906",
   "lastOpenFiles": [
+    "Spring 2023 Digital Justice CIRC Research Support Fund.md",
+    "Digital Justice CIRC Retreat 1.md",
+    "Digital Reset - A Compendium of Creative and Speculative Approaches.md",
     "Community Engaged Research.md",
     "Annual Digital Justice Spring 2023 Retreat.md",
-    "Digital Justice CIRC Retreat 1.md",
-    "Spring 2023 Digital Justice CIRC Research Support Fund.md",
     "Templates/Event template.md",
     "Templates",
     "Community Engaged Research A Panorama of Multiplicities.md"

@@ -1,4 +1,4 @@
-exclude: ['_includes/notes_graph.json','_projects/Templates', '_events/Templates', 'blog.html', '_posts']
+exclude: ['_includes/notes_graph.json','_projects/Templates', '_events/Templates', 'blog.html', '_posts', '_notes/Comps Reading Notes']
 permalink: pretty
 use_html_extension:  true
 
