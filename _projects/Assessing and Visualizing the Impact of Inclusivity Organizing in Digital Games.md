@@ -13,3 +13,5 @@ Through these discussions, we learned that the impact of the organization’s ac
 Based on these insights from the interviews, we ran a co-design workshop with members of the Pixelles community focused on two question- how can we effectively communicate the impacts the organization has, and how can we do so in a manner that is consent-driven and safe for the community?  
 
 In this next phase of the research, we are seeking to work with community researchers to help us visualize the models and frameworks designed by the participants for presentation purposes at future workshops with the community as well as at industry events, as we are interested in exploring how these strategies for assessing and communicating impact can be taken up by other groups and organizations working on inclusion in games to support their projects.
+
+TEST
